@@ -13,6 +13,12 @@
 }
 
 @font-face {
+  font-family: "Allseto";
+  src: url("Allseto.woff2");
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Assistant";
   src: url("Assistant-Regular.woff2");
   font-display: swap;
